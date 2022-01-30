@@ -3,7 +3,7 @@
 This platform aims to offer clients a one-stop online optimization for their investment portfolios that’s both inexpensive and high quality. To keep the costs low, the app uses algorithms to analyze, visualize and provide decision making control for each client. The algorithms choose from various investment strategies and options.
 The app determines the investment strategy based on client's preference of risk tolerance, initial investment and duration. 
 Additionally, the app provides an interactive dashboard to the client to empower them on how their dollar can go further. 
-The key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, betas, Monte Carlo simulations along with custom functions for dividend growth and interactive dashboard have been utilized.
+The key risk-management metrics: the daily returns, standard deviations and Monte Carlo simulations along with custom functions for dividend growth and interactive dashboard have been utilized.
 
 
 ## Technologies
@@ -18,6 +18,8 @@ The application is written in Python 3.9.7 and uses the following libraries:
 * matplotlib 
 * MCForecastTools 
 * Alpaca Trade API
+* Seaborn
+* NumPy
 
 
 The application runs from the command line on Windows, Linux or Mac OS systems, or from the Anaconda Navigator Software.
