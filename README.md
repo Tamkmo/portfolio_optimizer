@@ -36,6 +36,7 @@ In the command line go to the folder containing the jupyter notebook. Run `jupyt
 
 ## Contributors
 Project authors : 
+
 A. RUBKEVICH,
 
 T. MORBIWALA,
